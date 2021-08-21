@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.nav{
+    background-color: transparent !important;
+    
+    
+}
+
+.nav-logo{
+
+    width: 5%;
+
+}
+
+.title{
+    color:#8b4f6e;
+}
+
+hr{
+    background-color: #8b4f6e;
+    border-top: 2px solid;
+}
+
+p{
+    color:#541d38;
+}
+
+.content-icon{
+    background-color: #e4c0c7;
+}
+
+.bg-card{
+    background-color: #8b4f6e;
+}
+
+.bg-footer{
+    background-color: #541d38;
+}
